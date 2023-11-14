@@ -1,0 +1,13 @@
+package com.example.oop_board;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class OopBoardApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(OopBoardApplication.class, args);
+    }
+
+}
