@@ -10,6 +10,6 @@
 	</settings>
 
 	<typeAliases>
-		<typeAlias alias="boardVO" type="com.heaven.mvc.board.domain.BoardVO" />
+		<typeAlias alias="BoardVO" type="com.example.oop_board.domain.BoardVO" />
 	</typeAliases>
 </configuration>
